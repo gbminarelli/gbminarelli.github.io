@@ -1,4 +1,4 @@
-# [ Project Proposals ]({% 2019-01-10 %})
+# Project Proposals
 
 - Project A (Tutorial) - **JavaScript Test Suite** (Due Feb. 8)
 - Project B (Presentation) - **TicTacToe SPA with Vue.js** (Due Mar. 22)
