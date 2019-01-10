@@ -5,7 +5,7 @@
 
 ## JavaScript Test Suite
 
-The idea is to develop a set of scripts to test some of the functions (unit tests) on my second project (Project B) using one of the many JS frameworks available (still TBD). Project B will be developed in paralled with Project A only until I have enough code (functions) to define the test suite (i.e. both projects don't necessarily have to be completed at the same time).
+The idea is to develop a test suite (of unit tests initially, maybe integrations tests too if I have time) using one of the many JS frameworks available (still to be determined). The functions "to be tested" will also be developed later on (so users have something to test the suite with).
 
 ### Next Week
 
