@@ -15,7 +15,3 @@ The idea is to develop a test suite (of unit tests initially, maybe integrations
 ## TicTacToe SPA with Vue.js
 
 A TicTacToe web game (SPA) using Vue.js. The application should be complex enough to demostrate the advantages of using the framwork.
-
-### Next Week
-
-- Start reading the available documentation.
